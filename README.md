@@ -18,7 +18,7 @@ Otherwise, you can install Anaconda for settings environment [https://www.anacon
 
 ### Kuzushiji-MNIST
 
-Kuzushiji-MNIST contains 70,000 28x28 grayscale images spanning 10 classes (one from each column of [hiragana](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Table_hiragana.svg/768px-Table_hiragana.svg.png)), and is perfectly balanced like the original MNIST dataset (6k/1k train/test for each class).
+Kuzushiji-MNIST contains 70,000 28x28 grayscale images spanning 10 classes (one from each column of hiragana), and is perfectly balanced like the original MNIST dataset (6k/1k train/test for each class).
 
 | File            | Examples | Download (MNIST format)    | Download (NumPy format)      |
 |-----------------|--------------------|----------------------------|------------------------------|
